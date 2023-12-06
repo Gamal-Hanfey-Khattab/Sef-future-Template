@@ -7,4 +7,4 @@ Sef-Future Template is  Page that First Page I Made  The Page is built with Html
 
 ## Credits
 
-This project was created by [Gamal Khattab](https://github.com/gamal-hanafi)
+This project was created by [Gamal Khattab](https://github.com/gamal-khattab)
